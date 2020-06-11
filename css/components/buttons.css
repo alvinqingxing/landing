@@ -4,8 +4,8 @@
   border-radius: 10px;
   font-weight: bold;
   background: #888888;
+  margin-left: 10px;
 }
-
 .btn-flat:hover {
   position:relative;
   top:1px;

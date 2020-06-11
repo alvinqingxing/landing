@@ -18,6 +18,9 @@ a {
   width: 900px;
   margin: auto;
 }
-.text-center {
+.mid-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
