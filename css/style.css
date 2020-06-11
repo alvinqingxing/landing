@@ -14,13 +14,15 @@ h1, h2, h3, h4 {
 a {
   text-decoration: none;
 }
-.container {
-  width: 900px;
-  margin: auto;
+.container-banner {
+  text-align: center;
 }
-.mid-header {
+.container-cards {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
+}
+.text-center {
   text-align: center;
 }
