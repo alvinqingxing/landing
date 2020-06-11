@@ -11,6 +11,9 @@ body {
 h1, h2, h3, h4 {
   font-family: 'Poppins';
 }
+h2 {
+  color: #0000cc;
+}
 a {
   text-decoration: none;
 }
