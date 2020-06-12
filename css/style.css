@@ -16,6 +16,10 @@ h2 {
 }
 a {
   text-decoration: none;
+  color: #b3d1ff;
+}
+a:hover {
+  color: #F8F8F8;
 }
 .container-banner {
   text-align: center;
@@ -28,4 +32,7 @@ a {
 }
 .text-center {
   text-align: center;
+}
+.attribution {
+  font-size: small;
 }
