@@ -1,6 +1,7 @@
 .footer {
   background: #303030;
   display: flex;
+  text-align: center;
   justify-content: center;
   align-items: center;
   padding: 60px;
